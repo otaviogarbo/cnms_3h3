@@ -1,4 +1,4 @@
-pip
-Flask
+Flask>=3.0.0
 pandas
-serial
+pyserial>=3.5
+requests>=2.31.0
